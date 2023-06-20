@@ -1,6 +1,6 @@
-
-![a-curly--programing-brown-hair--white-peaple-long-hair-glasses-tecnology-hvjyhgvjuygfvkiug (2)](https://github.com/cecilia2904/cecilia2904/assets/90199276/be1bc8cf-2562-4914-835e-c61c74cc588c)
-
+<div align="center">
+ <img src="https://github.com/cecilia2904/cecilia2904/assets/90199276/c00ad987-3106-4919-b7ee-e27517ce7ae7)"/>
+</div>
 
 
 <div align="center">
