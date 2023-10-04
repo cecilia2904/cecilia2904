@@ -1,9 +1,10 @@
 # <h1 align="center"> Olá, meu nome é Cecília 🤍 </h1> 
 
+
 -----------------------------------------------------
 <p align= "center">✔ Seja bem-vindo/bem-vinda ao meu perfil do GitHub! ✔</p>
 
-<div align="center"><img src="https://github.com/cecilia2904/cecilia2904/assets/90199276/9be840e8-4fcf-4a39-9606-1c0a931e6651"/> </div>
+<div align="center"><img src="https://github.com/cecilia2904/cecilia2904/assets/90199276/d511c2ac-6c66-4d94-8b5e-7bc23630689e"/> </div>
 
 
 <p align= "center"> 🌍 Fortaleza  | 🤝  aberta a projetos Front-end </p>
