@@ -1,7 +1,4 @@
 # <h1 align="center"> Olá, meu nome é Cecília 🤍 </h1> 
-<div align="center">
- <img src="https://github.com/cecilia2904/cecilia2904/assets/90199276/1c955fb5-a94b-4660-bf33-c96293353c23"/>
-</div>
 
 
 -----------------------------------------------------
@@ -10,7 +7,7 @@
 <div align="center"><img src="https://github.com/cecilia2904/cecilia2904/assets/90199276/b49a2784-8a52-4e7b-899d-7fb87fdeef4b" /> </div>
 
 
-<p align= "center"> 🌍 Fortaleza | 🧠  aprendendo Angular | 🤝  aberta a projetos Front-end </p>
+<p align= "center"> 🌍 Fortaleza  | 🤝  aberta a projetos Front-end </p>
 
 
 
