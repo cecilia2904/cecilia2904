@@ -4,7 +4,7 @@
 -----------------------------------------------------
 <p align= "center">✔ Seja bem-vindo/bem-vinda ao meu perfil do GitHub! ✔</p>
 
-<div align="center"><img src="https://github.com/cecilia2904/cecilia2904/assets/90199276/b49a2784-8a52-4e7b-899d-7fb87fdeef4b" /> </div>
+<div align="center"><img src="https://github.com/cecilia2904/cecilia2904/assets/90199276/ac65f78e-051a-4ef9-8041-ab3d60093018" /> </div>
 
 
 <p align= "center"> 🌍 Fortaleza  | 🤝  aberta a projetos Front-end </p>
